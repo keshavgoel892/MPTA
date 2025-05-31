@@ -41,7 +41,7 @@ Street vendors:
 
 | Bank Name Entry | Payment Notification | Settings Screen |
 |------------------|----------------------|------------------|
-| ![App Image 1](https://github.com/keshavgoel892/MPTA/blob/bc27e372c3734053e9935eab76b982e670bb265d/IMG-20250531-WA0002.jpg) | ![App Image 2](./assets/app_image2.png) | ![App Image 3](./assets/app_image3.png) |
+| ![App Image 1](https://github.com/keshavgoel892/MPTA/blob/bc27e372c3734053e9935eab76b982e670bb265d/IMG-20250531-WA0002.jpg) | ![App Image 2](https://github.com/keshavgoel892/MPTA/blob/6239cbee9cbbcb324d9c38b0867477deeab5fa14/image.png) | ![App Image 3](./assets/app_image3.png) |
 
 ---
 
